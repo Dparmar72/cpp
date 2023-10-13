@@ -1,0 +1,9 @@
+#include<iostream>
+usaing namespace std;
+
+int main()
+{
+  int x;
+  cout<<"value of x=";
+  cin>>x;
+}
